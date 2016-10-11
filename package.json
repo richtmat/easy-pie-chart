@@ -19,7 +19,7 @@
     }
   ],
   "version": "2.1.7",
-  "main": "dist/easypiechart.js",
+  "main": "dist/angular.easypiechart.js",
   "author": {
     "name": "Robert Fleischmann",
     "email": "rendro87@gmail.com",
